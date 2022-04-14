@@ -7,7 +7,7 @@ The main goal of this test is to estimate your technical knowledge on Vue and Ta
 ## Prerequisites
 
 - NodeJS `^16.14.0`
-- Vuetest-junior project
+- A fork of the Vuetest-junior project
 - The [Yelp API documentation](https://www.yelp.com/developers/documentation/v3)
 
 ## Exercise
