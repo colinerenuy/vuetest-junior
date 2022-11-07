@@ -15,7 +15,7 @@ export default defineConfig({
     proxy: {
       // with options
       '/api': {
-        target: 'https://api.yelp.com/v3/',
+        target: 'https://api.yelp.com/v3',
         changeOrigin: true,
         rewrite: (path) => path.replace(/^\/api/, ''),
         secure: false
